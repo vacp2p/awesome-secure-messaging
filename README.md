@@ -42,3 +42,4 @@ Your [contributions](contributing.md) are welcomed.
 
 - [Briar](https://briarproject.org/) - messaging app employing several censorship-resitance techniques, like direct device-to-device comms (bluetooth, wifi), Tor routing
 
+- [Signal](https://signal.org/) - widely used security-based messaging app with intermediate server and phone based registration, includes voice calls
