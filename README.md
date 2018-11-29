@@ -39,6 +39,10 @@ Your [contributions](contributing.md) are welcomed.
 
 - [Selected Papers in Anonymity](https://www.freehaven.net/anonbib/) - meta-list of selected papers in anonymity since 1977
 
+- [Sphinx: A Compact and Provably Secure Mix Format](http://www.cypherpunks.ca/~iang/pubs/Sphinx_Oakland09.pdf) - paper on secure and compact message format for mix networks
+
+- [Sphinx Mix Network Cryptographic Packet Format Specification](https://katzenpost.mixnetworks.org/docs/specs/sphinx.html) - specification for Sphinx mix network packet format
+
 ## Censorship Resistance
 
 - [Pluggable Transport](https://www.pluggabletransports.info/) - specification initiative to allow applications being used as transports to make network traffic harder to distinguish and block, origins in Tor
