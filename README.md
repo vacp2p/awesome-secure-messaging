@@ -24,6 +24,7 @@
 
 - [Anonymity Trilemma: Strong Anonymity, Low Bandwidth Overhead, Low Latency—Choose Two](https://eprint.iacr.org/2017/954.pdf) - on fundamental tradeoff for anonymous communication protocols
 
+- [Selected Papers in Anonymity](https://www.freehaven.net/anonbib/) - meta-list of selected papers in anonymity since 1977
 
 ## Applications
 
