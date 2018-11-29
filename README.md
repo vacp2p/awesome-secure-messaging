@@ -6,6 +6,7 @@
 - [Fundamentals](#fundamentals)
 - [Messaging](#messaging)
 - [Anonymity](#anonymity)
+- [Applications](#applications)
 
 ## Fundamentals
 
@@ -22,3 +23,9 @@
 - [The Differences Between Onion Routing and Mix Networks](https://crypto.is/blog/mix_and_onion_networks) - brief comparison
 
 - [Anonymity Trilemma: Strong Anonymity, Low Bandwidth Overhead, Low Latency—Choose Two](https://eprint.iacr.org/2017/954.pdf) - on fundamental tradeoff for anonymous communication protocols
+
+
+## Applications
+
+- [Briar](https://briarproject.org/) - messaging app employing several censorship-resitance techniques, like direct device-to-device comms (bluetooth, wifi), Tor routing
+
