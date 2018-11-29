@@ -1,5 +1,10 @@
- Awesome Secure Messaging
+# Awesome Secure Messaging
+
 *A curated collection of links for secure messaging. Part of the ["Awesome X" series](https://github.com/sindresorhus/awesome).*
+
+The list is periodically updated with new links. Click "Watch" in the right top corner to follow.
+
+Your [contributions](contributing.md) are welcomed.
 
 ## Table of Contents
 
