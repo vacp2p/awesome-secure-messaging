@@ -21,7 +21,14 @@ Your [contributions](contributing.md) are welcomed.
 
 - [Double Ratchet](https://signal.org/docs/specifications/doubleratchet/) - two-party protocol to exchange encrypted messages based on shared key
 
+- [Bramble Transport Protocol](https://code.briarproject.org/briar/briar-spec/blob/master/protocols/BTP.md) - transport layer security protocol for delay-tolerant networks, provides secure channel between two endpoints
+
+- [Bramble Synchronisation Protocol](https://code.briarproject.org/briar/briar-spec/blob/master/protocols/BSP.md) - data synchronisation protocol for delay-tolerant networks
+
+## Trust establishment
 - [X3DH](https://signal.org/docs/specifications/x3dh/) - two-party asynchronous key agreement protocol
+
+- [Bramble QR Code Protocol](https://code.briarproject.org/briar/briar-spec/blob/master/protocols/BQP.md) - in-person key agreement protocol to establish a shared secret
 
 ## Anonymity
 
