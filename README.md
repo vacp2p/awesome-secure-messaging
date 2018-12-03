@@ -43,6 +43,8 @@ Your [contributions](contributing.md) are welcomed.
 
 - [Sphinx Mix Network Cryptographic Packet Format Specification](https://katzenpost.mixnetworks.org/docs/specs/sphinx.html) - specification for Sphinx mix network packet format
 
+- [Introducing Anonymous Communications slides](http://www0.cs.ucl.ac.uk/staff/G.Danezis/talks/AnonTalk.pdf) - notes by George Danezis on properties, threat models, systems & attacks
+
 ## Censorship Resistance
 
 - [Pluggable Transport](https://www.pluggabletransports.info/) - specification initiative to allow applications being used as transports to make network traffic harder to distinguish and block, origins in Tor
