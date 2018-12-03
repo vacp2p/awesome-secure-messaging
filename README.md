@@ -12,6 +12,8 @@ Your [contributions](contributing.md) are welcomed.
 - [Messaging](#messaging)
 - [Anonymity](#anonymity)
 - [Censorship Resistance](#censorship-resistance)
+- [Coercion Resistance](#coercion-resistance)
+- [Attacks](#attack)
 - [Applications](#applications)
 
 ## Fundamentals
@@ -62,6 +64,11 @@ Your [contributions](contributing.md) are welcomed.
 - [Coercion-Resistant Electronic Elections](https://eprint.iacr.org/2002/165.pdf) - paper on coercion resistance and trusted setup requirement
 
 - [On-Chain Vote Buying and the Rise of Dark DAOs](http://hackingdistributed.com/2018/07/02/on-chain-vote-buying/) - on problems of user generated keys and electronic voting
+
+
+## Attacks
+
+- [The Sybil Attack](https://www.freehaven.net/anonbib/cache/sybil.pdf) - attack on p2p systems from cheap identity generation, requiring some form of logically centralized authority
 
 ## Applications
 
