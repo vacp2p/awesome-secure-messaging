@@ -45,11 +45,21 @@ Your [contributions](contributing.md) are welcomed.
 
 - [Introducing Anonymous Communications slides](http://www0.cs.ucl.ac.uk/staff/G.Danezis/talks/AnonTalk.pdf) - notes by George Danezis on properties, threat models, systems & attacks
 
+- [Anonymous Communications slides at CCC](https://events.ccc.de/congress/2004/fahrplan/files/355-anonymous-communication-slides.pdf) - another overview of anonymous communication systems by George Danezis
+
 ## Censorship Resistance
 
 - [Pluggable Transport](https://www.pluggabletransports.info/) - specification initiative to allow applications being used as transports to make network traffic harder to distinguish and block, origins in Tor
 
 - [Selected Research Papers in Internet Censorship](https://censorbib.nymity.ch/) - meta-list of papers on censorship and resistance thereof
+
+## Cocercion Resistance
+
+- [Coercion-Resistance and Receipt-Freeness in Electronic Voting](http://people.irisa.fr/Stephanie.Delaune/PUBLICATIONS/DKR-csfw06.pdf) - academic paper that outlines ways to provide coercion-resistance for electronic voting
+
+- [Coercion-Resistant Electronic Elections](https://eprint.iacr.org/2002/165.pdf) - paper on coercion resistance and trusted setup requirement
+
+- [On-Chain Vote Buying and the Rise of Dark DAOs](http://hackingdistributed.com/2018/07/02/on-chain-vote-buying/) - on problems of user generated keys and electronic voting
 
 ## Applications
 
