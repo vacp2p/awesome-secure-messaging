@@ -70,6 +70,8 @@ Your [contributions](contributing.md) are welcomed.
 
 - [The Sybil Attack](https://www.freehaven.net/anonbib/cache/sybil.pdf) - attack on p2p systems from cheap identity generation, requiring some form of logically centralized authority
 
+- [Tagging Attacks](https://crypto.is/blog/tagging_attacks) - adversary recognizing traffic by modfiying it in acceptable fashion
+
 ## Applications
 
 - [Briar](https://briarproject.org/) - messaging app employing several censorship-resitance techniques, like direct device-to-device comms (bluetooth, wifi), Tor routing
