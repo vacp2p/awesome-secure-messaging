@@ -18,6 +18,8 @@ Your [contributions](contributing.md) are welcomed.
 
 - [SoK: Secure Messaging](http://cacr.uwaterloo.ca/techreports/2015/cacr2015-02.pdf) - evaluation of current secure messaging solutions based on security, usability and adoption
 
+- [Viewing Privacy as a Security Property](http://www0.cs.ucl.ac.uk/staff/G.Danezis/talks/privacy-as-security.pdf) - presentation by George Danezis that tells the story of privacy as security, informational self-determination
+
 ## Messaging
 
 - [Double Ratchet](https://signal.org/docs/specifications/doubleratchet/) - two-party protocol to exchange encrypted messages based on shared key
