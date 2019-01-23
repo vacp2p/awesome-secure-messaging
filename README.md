@@ -30,10 +30,16 @@ Your [contributions](contributing.md) are welcomed.
 
 - [Bramble Synchronisation Protocol](https://code.briarproject.org/briar/briar-spec/blob/master/protocols/BSP.md) - data synchronisation protocol for delay-tolerant networks
 
+
 ## Trust establishment
 - [X3DH](https://signal.org/docs/specifications/x3dh/) - two-party asynchronous key agreement protocol
 
 - [Bramble QR Code Protocol](https://code.briarproject.org/briar/briar-spec/blob/master/protocols/BQP.md) - in-person key agreement protocol to establish a shared secret
+
+
+## Session management
+
+- [Sesame](https://signal.org/docs/specifications/sesame/) - session management for async and-multi device setting
 
 ## Anonymity
 
