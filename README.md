@@ -65,6 +65,8 @@ Your [contributions](contributing.md) are welcomed.
 
 - [Pluggable Transport](https://www.pluggabletransports.info/) - specification initiative to allow applications being used as transports to make network traffic harder to distinguish and block, origins in Tor
 
+- [So you want to write a Tor pluggable transport (video)](https://www.bamsoftware.com/talks/30c3-pt/index.html) - lightning talk about how to write a pluggable transport for Tor
+
 - [Selected Research Papers in Internet Censorship](https://censorbib.nymity.ch/) - meta-list of papers on censorship and resistance thereof
 
 ## Cocercion Resistance
