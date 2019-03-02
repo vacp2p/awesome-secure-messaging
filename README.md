@@ -30,6 +30,7 @@ Your [contributions](contributing.md) are welcomed.
 
 - [Bramble Synchronisation Protocol](https://code.briarproject.org/briar/briar-spec/blob/master/protocols/BSP.md) - data synchronisation protocol for delay-tolerant networks
 
+- [TreeKEM - Asynchronous Decentralized Key Management for Large Dynamic Groups](https://mailarchive.ietf.org/arch/attach/mls/pdf1XUH6o.pdf) - efficient way of establishing shared key for large groups with asynchronous group modification perations; proposal for Messaging Layer Security protocol (MLS); similar to Asynchronous Ratcheting Trees (ART) and an evolution thereof
 
 ## Trust establishment
 - [X3DH](https://signal.org/docs/specifications/x3dh/) - two-party asynchronous key agreement protocol
