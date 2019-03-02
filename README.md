@@ -32,6 +32,8 @@ Your [contributions](contributing.md) are welcomed.
 
 - [TreeKEM - Asynchronous Decentralized Key Management for Large Dynamic Groups](https://mailarchive.ietf.org/arch/attach/mls/pdf1XUH6o.pdf) - efficient way of establishing shared key for large groups with asynchronous group modification perations; proposal for Messaging Layer Security protocol (MLS); similar to Asynchronous Ratcheting Trees (ART) and an evolution thereof
 
+- [On Ends-to-Ends Encryption](https://research.fb.com/wp-content/uploads/2018/11/On-Ends-to-Ends-Encryption-Asynchronous-Group-Messaging-with-Strong-Security-Guarantees.pdf) - Asynchronous Group Messaging with Strong Security Guarantees using Asynchronous Ratcheting Trees
+
 ## Trust establishment
 - [X3DH](https://signal.org/docs/specifications/x3dh/) - two-party asynchronous key agreement protocol
 
