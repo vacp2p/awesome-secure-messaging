@@ -34,6 +34,8 @@ Your [contributions](contributing.md) are welcomed.
 
 - [On Ends-to-Ends Encryption](https://research.fb.com/wp-content/uploads/2018/11/On-Ends-to-Ends-Encryption-Asynchronous-Group-Messaging-with-Strong-Security-Guarantees.pdf) - Asynchronous Group Messaging with Strong Security Guarantees using Asynchronous Ratcheting Trees
 
+- [Messaging Layer Security Architecture](https://tools.ietf.org/id/draft-omara-mls-architecture-01.html) - IETF draft of security layer for group messaging applications with a large number of participants
+
 ## Trust establishment
 - [X3DH](https://signal.org/docs/specifications/x3dh/) - two-party asynchronous key agreement protocol
 
