@@ -1,3 +1,5 @@
+**STATUS: Not actively maintained; bibliograpy now updated in Zotero group https://www.zotero.org/groups/2306124/vacp2p/items for https://vac.dev/**
+
 # Awesome Secure Messaging
 
 *A curated collection of links for secure messaging. Part of the ["Awesome X" series](https://github.com/sindresorhus/awesome).*
